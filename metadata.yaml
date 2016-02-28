@@ -1,0 +1,26 @@
+_repo: The-Voyage-of-Verrazzano-A-Chapter-in-the-Early-History-of-Maritime-Discovery-in-America_5252
+creator:
+  author:
+    agent_name: Murphy, Henry Cruse
+    alias: Murphy, H. C. (Henry Cruse)
+    birthdate: 1810
+    deathdate: 1882
+    gutenberg_agent_id: '1749'
+    url: http://www.gutenberg.org/2009/agents/1749
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cruse_Murphy
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration -- French'
+- !lcc 'E011'
+- !lcsh 'Verrazzano, Giovanni da, 1485-1528'
+title: "The Voyage of Verrazzano\r\nA Chapter in the Early History of Maritime Discovery\
+  \ in America"
+url: http://www.gutenberg.org/ebooks/5252
