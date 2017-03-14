@@ -1,5 +1,8 @@
 _repo: The-Voyage-of-Verrazzano-A-Chapter-in-the-Early-History-of-Maritime-Discovery-in-America_5252
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Murphy, Henry Cruse
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1749
     wikipedia: http://en.wikipedia.org/wiki/Henry_Cruse_Murphy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5252#The-Voyage-of-Verrazzano-A-Chapter-in-the-Early-History-of-Maritime-Discovery-in-America
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
